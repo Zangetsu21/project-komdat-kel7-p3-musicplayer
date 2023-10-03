@@ -111,7 +111,7 @@ Penjelasan diatas merupakan langkah sederhana dalam menggunakan Aplikasi Web ini
 # Pembahasan
 [![Kembali ke Atas](https://img.shields.io/badge/Kembali%20ke%20Atas-%E2%86%91-blue)](#)
 
-## Pendapat tentang Aplikasi Web ApnaTheatre
+### Pendapat tentang Aplikasi Web ApnaTheatre
 
 Aplikasi web [ApnaTheatre](https://komdat-kel7-p3-apnatheather.netlify.app/) adalah sebuah proyek yang menawarkan layanan streaming film. Berikut adalah beberapa pendapat tentang aplikasi ini:
 
@@ -133,7 +133,7 @@ Aplikasi web [ApnaTheatre](https://komdat-kel7-p3-apnatheather.netlify.app/) ada
 
 Aplikasi web ApnaTheatre memiliki potensi untuk menjadi platform streaming yang menarik dengan desain responsif dan tampilan yang menarik. Namun, keberhasilannya tergantung pada ketersediaan konten yang lebih luas dan pemenuhan ketentuan hukum. Pengguna yang ingin menggunakan aplikasi ini harus memahami batasan konten dan berkomitmen untuk mematuhi hak cipta dan peraturan yang berlaku.
 
-## Perbandingan dengan PusatFilm21
+### Perbandingan dengan PusatFilm21
 
 **Movie Streaming Website (ApnaTheatre):**
 
